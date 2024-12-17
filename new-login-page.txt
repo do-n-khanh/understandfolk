@@ -1,0 +1,8 @@
+def login(user_id, password):
+    # Here you can add logic to verify user_id and password
+    return "Hello text"
+
+# Example usage
+user_id = "example_id"
+password = "example_pass"
+print(login(user_id, password))
